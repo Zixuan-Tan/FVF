@@ -1,0 +1,8 @@
+*.txt filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+CVE_list.csv filter=lfs diff=lfs merge=lfs -text
+DL[[:space:]]Model[[:space:]]Eval/ivdetect/glove/vectors.txt.gz filter=lfs diff=lfs merge=lfs -text
+SBP[[:space:]]Dataset/raw/sbp_rawdata_raw.csv.gz filter=lfs diff=lfs merge=lfs -text
+vulnerability[[:space:]]feature[[:space:]]DB/vulnerabilities.csv.gz filter=lfs diff=lfs merge=lfs -text
+DL[[:space:]]Model[[:space:]]Eval/ivdetect/glove/corpus.txt.gz filter=lfs diff=lfs merge=lfs -text
+DL[[:space:]]Model[[:space:]]Eval/ivdetect/glove/vectors.bin.gz filter=lfs diff=lfs merge=lfs -text
