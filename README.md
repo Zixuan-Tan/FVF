@@ -1,4 +1,8 @@
-This repository contains dataset related to the paper: "Similar but Patched Code Considered Harmful -- The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them", which is currently anonymous for double-blind review.
+## Introduction
+
+This repository contains dataset related to the paper: "Similar but Patched Code Considered Harmful -- The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them".
+
+## File Structure
 
 **vulnerability feature DB/**: The vulnerability feature database, which contains the vulnerabilities and patch logs.
 
